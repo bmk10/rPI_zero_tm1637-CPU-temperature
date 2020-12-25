@@ -18,6 +18,9 @@ temperature - SPECIAL EDITION, MORE precision PRINTED For . trailing number.
         tm.show(floatstr,bShowColin)
         time.sleep(1)
   </code>
+  <BR />
+  <img src="https://github.com/bmk10/rPI_zero_tm1637-CPU-temperature/blob/main/nano.JPG?raw=true" />
+  
   <br />
   <br />
  REPLACE  measure_temp FUNCTIONS with own LINUX Commands FOR GPIO or other extraction methods VERY easy.
